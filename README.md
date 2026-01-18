@@ -240,5 +240,4 @@ Electronics & Communication Engineering
 Major Project – Deep Learning & CNN Acceleration
 
 
-Just tell me 👍
-```
+
